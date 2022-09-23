@@ -1,6 +1,6 @@
-# AML Project
+# Advacned Machine Learning Course Project
 
-Name:Yicheng Ma	NetID:ym1956
+Name:Yicheng Ma
 
 Continual learning of Single Shot Multibox Detector on Large dataset
 
